@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#171a1c">
+    <meta name="description" content="BES Reinforcements LTD delivers professional reinforcement and construction services with precision, quality and reliability.">
+    <title>BES Reinforcements LTD | Strength. Precision. Reliability.</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header" id="top">
+      <div class="utility-bar">
+        <div class="container utility-inner">
+          <span>BUILT ON TRUST. REINFORCED TO LAST.</span>
+          <a href="#contact">Discuss your next project <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <div class="container nav-wrap">
+        <a class="brand" href="#top" aria-label="BES Reinforcements LTD home">
+          <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+          <span class="brand-copy"><strong>BES</strong><small>REINFORCEMENTS LTD</small></span>
+        </a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation">
+          <span></span><span></span>
+        </button>
+        <nav class="primary-nav" id="primary-nav" aria-label="Main navigation">
+          <a href="#top">Home</a>
+          <a href="#about">About</a>
+          <a href="#services">Services</a>
+          <a href="#projects">Projects</a>
+          <a href="#why-us">Why Us</a>
+          <a href="#contact">Contact</a>
+          <a class="button button-small button-dark nav-cta" href="#contact">Get a Quote <span aria-hidden="true">↗</span></a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-image" role="img" aria-label="Steel reinforcement framework on an active construction site"></div>
+        <div class="hero-shade"></div>
+        <div class="container hero-content">
+          <p class="eyebrow eyebrow-light"><span class="eyebrow-line"></span> Reinforcement &amp; construction specialists</p>
+          <h1 id="hero-title">Strength.<br>Precision.<br><span>Reliability.</span></h1>
+          <p class="hero-intro">Professional reinforcement and construction services delivered with precision, quality, and reliability.</p>
+          <div class="hero-actions">
+            <a class="button button-accent" href="#contact">Get a Quote <span aria-hidden="true">↗</span></a>
+            <a class="button button-outline" href="#projects">Our Projects <span aria-hidden="true">↓</span></a>
+          </div>
+          <div class="hero-foot">
+            <span class="hero-index">01 <i></i> 03</span>
+            <span>BUILT WITH PURPOSE. MADE TO ENDURE.</span>
+          </div>
+        </div>
+        <a class="scroll-cue" href="#about" aria-label="Scroll to about us"><span></span> SCROLL TO EXPLORE</a>
+      </section>
+
+      <section class="intro-band" aria-label="Our approach">
+        <div class="container intro-band-inner">
+          <p>THE FOUNDATION OF EVERY GREAT BUILD</p>
+          <div class="intro-band-rule"></div>
+          <p>Carefully considered. Expertly reinforced. Reliably delivered.</p>
+        </div>
+      </section>
+
+      <section class="section about-section" id="about">
+        <div class="container about-grid">
+          <div class="about-visual">
+            <img src="https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1100&q=85" alt="Architectural concrete structure framed against the sky" loading="lazy">
+            <div class="image-stamp"><span>BUILT<br>TO LAST</span><span class="stamp-mark" aria-hidden="true">B</span></div>
+            <div class="image-caption"><span>01 / OUR APPROACH</span><span>DETAIL MAKES THE DIFFERENCE</span></div>
+          </div>
+          <div class="about-copy">
+            <p class="eyebrow"><span class="eyebrow-line"></span> About BES</p>
+            <h2>Strong structures<br>start with <span>strong standards.</span></h2>
+            <p class="body-lead">BES Reinforcements LTD is a professional construction and reinforcement company built around one simple principle: do the work properly.</p>
+            <p>From reinforcement and concrete works to structural upgrades, we bring a considered, detail-led approach to every stage on site. We care about the strength behind the finish, the safety of the people who depend on it, and the confidence our clients have in the result.</p>
+            <div class="about-points">
+              <div><span class="check-mark" aria-hidden="true">✓</span><span>Professional workmanship, every stage</span></div>
+              <div><span class="check-mark" aria-hidden="true">✓</span><span>Quality materials and proven methods</span></div>
+              <div><span class="check-mark" aria-hidden="true">✓</span><span>Reliable delivery and clear communication</span></div>
+              <div><span class="check-mark" aria-hidden="true">✓</span><span>Safety and structural integrity at the core</span></div>
+            </div>
+            <a class="text-link" href="#services">Discover how we work <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section services-section" id="services">
+        <div class="container">
+          <div class="section-heading section-heading-light">
+            <div>
+              <p class="eyebrow eyebrow-light"><span class="eyebrow-line"></span> What we do</p>
+              <h2>Built around<br><span>your requirements.</span></h2>
+            </div>
+            <p>Practical expertise across reinforcement and construction. Tell us what your project needs, and we'll help you take the next step.</p>
+          </div>
+          <div class="services-grid">
+            <article class="service-card">
+              <span class="service-number">01</span>
+              <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M13 5v38M24 5v38M35 5v38M7 15h34M7 24h34M7 33h34"/></svg></span>
+              <h3>Steel Reinforcement</h3><p>Accurate placement and fixing to support strength, stability, and structural performance.</p><a href="#contact" aria-label="Enquire about Steel Reinforcement">↗</a>
+            </article>
+            <article class="service-card">
+              <span class="service-number">02</span>
+              <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M7 39h34M10 39V18l14-9 14 9v21M17 39V25h14v14M19 17h.01M29 17h.01"/></svg></span>
+              <h3>Reinforced Concrete</h3><p>Coordinated reinforcement and concrete work for durable, dependable structures.</p><a href="#contact" aria-label="Enquire about Reinforced Concrete">↗</a>
+            </article>
+            <article class="service-card">
+              <span class="service-number">03</span>
+              <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M7 40V11h34v29M7 20h34M7 30h34M18 11v29M30 11v29"/></svg></span>
+              <h3>Structural Reinforcement</h3><p>Carefully planned structural solutions to help strengthen and support your build.</p><a href="#contact" aria-label="Enquire about Structural Reinforcement">↗</a>
+            </article>
+            <article class="service-card">
+              <span class="service-number">04</span>
+              <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M8 40V18l16-9 16 9v22M8 25h32M16 18v22M32 18v22M20 40V30h8v10"/></svg></span>
+              <h3>Construction Reinforcement</h3><p>Reliable reinforcement services, coordinated with the demands of your construction programme.</p><a href="#contact" aria-label="Enquire about Construction Reinforcement">↗</a>
+            </article>
+            <article class="service-card">
+              <span class="service-number">05</span>
+              <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M7 39h34M11 39V18h26v21M16 18v-8h16v8M17 26h14M17 32h14"/></svg></span>
+              <h3>Concrete Works</h3><p>Dependable concrete work delivered with care, good preparation, and close attention to finish.</p><a href="#contact" aria-label="Enquire about Concrete Works">↗</a>
+            </article>
+            <article class="service-card">
+              <span class="service-number">06</span>
+              <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M6 40h36M10 40V15h28v25M16 15V8h16v7M16 23h5M27 23h5M16 31h5M27 31h5"/></svg></span>
+              <h3>Commercial Construction</h3><p>Professional support for commercial construction projects, from structural work to delivery.</p><a href="#contact" aria-label="Enquire about Commercial Construction">↗</a>
+            </article>
+            <article class="service-card">
+              <span class="service-number">07</span>
+              <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M6 40h36M10 40V21l14-12 14 12v19M18 40V28h12v12M16 22h.01M32 22h.01"/></svg></span>
+              <h3>Residential Construction</h3><p>Thoughtful construction and reinforcement services for residential builds and improvements.</p><a href="#contact" aria-label="Enquire about Residential Construction">↗</a>
+            </article>
+            <article class="service-card">
+              <span class="service-number">08</span>
+              <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M8 40V9h32v31M8 18h32M8 29h32M18 9v31M30 9v31M19 24h10"/></svg></span>
+              <h3>Renovation &amp; Upgrades</h3><p>Structural upgrades and renovation work to help existing spaces meet new demands.</p><a href="#contact" aria-label="Enquire about Renovation and Structural Upgrades">↗</a>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section projects-section" id="projects">
+        <div class="container">
+          <div class="section-heading">
+            <div><p class="eyebrow"><span class="eyebrow-line"></span> Selected work</p><h2>Made with care.<br><span>Built with purpose.</span></h2></div>
+            <p>Every project begins with a clear understanding of the brief. These sample entries are placeholders and will be replaced with BES project details.</p>
+          </div>
+          <div class="projects-grid">
+            <article class="project-card project-feature">
+              <img src="https://images.unsplash.com/photo-1541976590-713941681591?auto=format&fit=crop&w=1300&q=85" alt="Reinforcing steel and formwork on a construction site" loading="lazy">
+              <div class="project-overlay"><span class="project-tag">SAMPLE PROJECT · PLACEHOLDER</span><h3>Structural Frame</h3><div class="project-meta"><span>Location: To be confirmed</span><span>Reinforcement works</span></div><p>Placeholder description — replace with a genuine project summary and approved site photography.</p></div>
+            </article>
+            <article class="project-card">
+              <img src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1000&q=85" alt="Modern building under construction" loading="lazy">
+              <div class="project-overlay"><span class="project-tag">SAMPLE PROJECT · PLACEHOLDER</span><h3>Commercial Build</h3><div class="project-meta"><span>Location: To be confirmed</span><span>Commercial construction</span></div><p>Placeholder description — replace with verified project details.</p></div>
+            </article>
+            <article class="project-card">
+              <img src="https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1000&q=85" alt="Concrete architectural structure in daylight" loading="lazy">
+              <div class="project-overlay"><span class="project-tag">SAMPLE PROJECT · PLACEHOLDER</span><h3>Concrete &amp; Structure</h3><div class="project-meta"><span>Location: To be confirmed</span><span>Concrete works</span></div><p>Placeholder description — replace with verified project details.</p></div>
+            </article>
+          </div>
+          <p class="placeholder-note"><span aria-hidden="true">i</span> Project names, locations, descriptions, and images above are illustrative placeholders—not confirmed BES projects.</p>
+        </div>
+      </section>
+
+      <section class="why-section" id="why-us">
+        <div class="why-image" role="img" aria-label="Close-up of steel reinforcing bars ready for construction"></div>
+        <div class="why-content">
+          <div class="why-inner">
+            <p class="eyebrow eyebrow-light"><span class="eyebrow-line"></span> The BES difference</p>
+            <h2>Good work is<br><span>built into every detail.</span></h2>
+            <p class="why-intro">A dependable construction partner makes the whole project stronger. Here's what you can expect from working with BES.</p>
+            <div class="why-list">
+              <article><span class="why-num">01</span><div><h3>Quality Workmanship</h3><p>Precision and high-quality construction work, from preparation through to finish.</p></div></article>
+              <article><span class="why-num">02</span><div><h3>Strength &amp; Safety</h3><p>Work focused on creating strong, safe, and reliable structures.</p></div></article>
+              <article><span class="why-num">03</span><div><h3>Professional Team</h3><p>A skilled and dedicated team committed to delivering excellent results.</p></div></article>
+              <article><span class="why-num">04</span><div><h3>Reliable Service</h3><p>Deadlines, communication, and customer satisfaction are taken seriously.</p></div></article>
+              <article><span class="why-num">05</span><div><h3>Attention to Detail</h3><p>Every stage of the project is approached carefully and professionally.</p></div></article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section testimonials-section" aria-labelledby="testimonials-title">
+        <div class="container">
+          <div class="section-heading">
+            <div><p class="eyebrow"><span class="eyebrow-line"></span> Client feedback</p><h2 id="testimonials-title">Trust is built<br><span>one project at a time.</span></h2></div>
+            <span class="placeholder-pill">PLACEHOLDER REVIEWS</span>
+          </div>
+          <div class="testimonials-grid">
+            <figure class="testimonial">
+              <div class="quote-mark" aria-hidden="true">“</div><blockquote>Placeholder review. Replace with a genuine client testimonial, used with their permission.</blockquote>
+              <figcaption><span class="avatar-placeholder">P</span><span><strong>Placeholder client</strong><small>Role / company to be confirmed</small></span></figcaption>
+            </figure>
+            <figure class="testimonial">
+              <div class="quote-mark" aria-hidden="true">“</div><blockquote>Placeholder review. Replace with a genuine client testimonial, used with their permission.</blockquote>
+              <figcaption><span class="avatar-placeholder">P</span><span><strong>Placeholder client</strong><small>Role / company to be confirmed</small></span></figcaption>
+            </figure>
+            <figure class="testimonial">
+              <div class="quote-mark" aria-hidden="true">“</div><blockquote>Placeholder review. Replace with a genuine client testimonial, used with their permission.</blockquote>
+              <figcaption><span class="avatar-placeholder">P</span><span><strong>Placeholder client</strong><small>Role / company to be confirmed</small></span></figcaption>
+            </figure>
+          </div>
+          <p class="testimonial-disclaimer">All testimonials above are sample placeholders, not genuine customer reviews.</p>
+        </div>
+      </section>
+
+      <section class="contact-section" id="contact">
+        <div class="container contact-container">
+          <div class="contact-intro">
+            <p class="eyebrow eyebrow-light"><span class="eyebrow-line"></span> Start a conversation</p>
+            <h2>Let's build<br><span>something stronger.</span></h2>
+            <p>Tell us a little about your project. Our team will be in touch to discuss how we can help.</p>
+            <div class="contact-details">
+              <div><span class="detail-icon" aria-hidden="true">↗</span><span><small>CALL US</small><strong>Phone number to be provided</strong></span></div>
+              <div><span class="detail-icon" aria-hidden="true">↗</span><span><small>EMAIL</small><strong>Email address to be provided</strong></span></div>
+              <div><span class="detail-icon" aria-hidden="true">↗</span><span><small>FIND US</small><strong>Business address to be provided</strong></span></div>
+              <div><span class="detail-icon" aria-hidden="true">↗</span><span><small>OPENING HOURS</small><strong>Hours to be confirmed</strong></span></div>
+            </div>
+          </div>
+          <div class="quote-panel">
+            <div class="quote-panel-head"><span>REQUEST A QUOTE</span><span>01 — 06</span></div>
+            <h3>Tell us about your project.</h3>
+            <p>Fields marked * are required.</p>
+            <form class="quote-form" id="quote-form">
+              <div class="form-row">
+                <label>Name *<input name="name" type="text" autocomplete="name" placeholder="Your full name" required></label>
+                <label>Email *<input name="email" type="email" autocomplete="email" placeholder="you@company.com" required></label>
+              </div>
+              <div class="form-row">
+                <label>Phone<input name="phone" type="tel" autocomplete="tel" placeholder="Your phone number"></label>
+                <label>Company <span class="optional">(optional)</span><input name="company" type="text" autocomplete="organization" placeholder="Company name"></label>
+              </div>
+              <label>Project type *
+                <select name="project-type" required>
+                  <option value="" disabled selected>Select a service</option>
+                  <option>Steel Reinforcement</option><option>Reinforced Concrete</option><option>Structural Reinforcement</option><option>Construction Reinforcement</option><option>Concrete Works</option><option>Commercial Construction</option><option>Residential Construction</option><option>Renovation &amp; Structural Upgrades</option><option>Other / Not sure yet</option>
+                </select>
+              </label>
+              <label>Project details *<textarea name="details" rows="4" placeholder="A few details about your project, timeline, or requirements..." required></textarea></label>
+              <button class="button button-accent form-submit" type="submit">Send Quote Request <span aria-hidden="true">↗</span></button>
+              <p class="form-note" id="form-note" role="status">Demo form only — it is not connected to an inbox. Add BES contact details and a form service before publishing.</p>
+            </form>
+          </div>
+        </div>
+        <div class="container map-container">
+          <div class="map-placeholder">
+            <div class="map-grid" aria-hidden="true"></div>
+            <span class="map-pin" aria-hidden="true">+</span>
+            <div class="map-label"><strong>LOCATION TO BE ADDED</strong><span>Google Maps embed placeholder — replace when the business address is confirmed.</span></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-main">
+        <a class="brand brand-footer" href="#top" aria-label="BES Reinforcements LTD home">
+          <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+          <span class="brand-copy"><strong>BES</strong><small>REINFORCEMENTS LTD</small></span>
+        </a>
+        <p>Strength. Precision. Reliability.<br>Professional reinforcement and construction services.</p>
+        <a class="button button-outline footer-cta" href="#contact">Start a project <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="container footer-bottom"><span>© <span id="year">2026</span> BES Reinforcements LTD</span><span>Company information and contact details to be confirmed.</span><a href="#top">Back to top ↑</a></div>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
